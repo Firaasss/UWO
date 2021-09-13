@@ -1,0 +1,14 @@
+{
+    "name": "Western Faculty",
+    "short_name": "Western Faculty",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
